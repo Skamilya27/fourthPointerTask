@@ -23,4 +23,8 @@ Steps to follow to run the project
    ```bash
    php artisan serve
 
+- **API Documentation**
+  - You can view the API documentation here:
+    [Postman API Documentation](https://documenter.getpostman.com/view/25174746/2sA3Qqgsy3)
+
 
